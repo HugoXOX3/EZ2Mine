@@ -2,7 +2,6 @@
 ---
 Thx for all
 ---
-That for all.If you want to view your stats of miner you can go to [solo.ckpool.org](https://solo.ckpool.org/)
 
 [Donate with BTC:bc1qnk0ftxa4ep296phhnxl5lv9c2s5f8xakpcxmth](bitcoin:bc1qnk0ftxa4ep296phhnxl5lv9c2s5f8xakpcxmth?message=Donate)
 
